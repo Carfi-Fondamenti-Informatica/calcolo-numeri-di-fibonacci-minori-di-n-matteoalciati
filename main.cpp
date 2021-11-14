@@ -17,7 +17,7 @@ int main() {
 
         if(c<=n){
 
-            cout << c << endl;
+        cout << c << endl;
 
         b=a;
 
